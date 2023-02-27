@@ -1,6 +1,8 @@
 import React from "react";
 import { AiFillRocket, AiFillGithub, AiFillLinkedin } from "react-icons/ai";
 
+// holy grail layout with aura-theme from github
+
 const Main = () => {
   return (
     <div class="font-mono h-screen w-full text-[#a277ff] ">
