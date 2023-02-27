@@ -51,24 +51,29 @@ const Main = () => {
               Learning and AI Models.
             </div>
           </div>
-          <hr class="h-0.5 mx-auto my-4 bg-gray-100 border-0 rounded md:my-10 dark:bg-purple-700"></hr>
-          <div class=" table w-full border-separate border-">
-            <div class="table-header-group">
-              <div class="table-row">
-                <div class="table-cell border-b-2 border-r-2 border-purple-500 py-2 px-4">
-                  Projects
-                </div>
-                <div class="table-cell border-b-2 border-purple-500 py-2 px-4 ">
-                  Classes
-                </div>
-              </div>
+          <hr class="h-0.5 mx-auto my-0 bg-gray-100 border-0 rounded md:mt-10 dark:bg-purple-700"></hr>
+          <div class="grid grid-cols-2 justify-items-start divide-x-2 divide-purple-500">
+            <div class="px-4 pt-4 text-3xl font-bold w-full">
+              {" "}
+              Projects
+              <hr class="h-0.5 mx-auto my-0 bg-gray-100 border-0 rounded md:mt-4 dark:bg-purple-700"></hr>
             </div>
 
-            <div class="table-row-group">
-              <div class="table-row">
-                <div class="table-cell">Test1</div>
-                <div class="table-cell">Test2</div>
-              </div>
+            <div class="px-4 pt-4 text-3xl font-bold w-full">
+              {" "}
+              Courses{" "}
+              <hr class="h-0.5 mx-auto my-0 bg-gray-100 border-0 rounded md:mt-4 dark:bg-purple-700"></hr>
+            </div>
+          </div>
+          <div class="grid grid-cols-2 justify-items-start divide-x-2 divide-purple-500">
+            <div class="px-4 pt-4 text-3xl font-bold w-full">
+              <div>Project 1 ALLALA</div> <div>Project 1 ALLALA</div>
+              <hr class="h-0.5 mx-auto my-0 bg-gray-100 border-0 rounded md:mt-4 dark:bg-purple-700"></hr>
+            </div>
+            <div class="px-4 pt-4 text-3xl font-bold w-full">
+              {" "}
+              Courses{" "}
+              <hr class="h-0.5 mx-auto my-0 bg-gray-100 border-0 rounded md:mt-4 dark:bg-purple-700"></hr>
             </div>
           </div>
         </div>
