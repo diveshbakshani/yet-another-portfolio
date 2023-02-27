@@ -7,7 +7,7 @@ function App() {
   const [count, setCount] = useState(0);
 
   return (
-    <div class="bg-[#15141b]">
+    <div class="bg-[#15141b] min-h-screen">
       <div class="sm:mx-80 m-auto">
         {/* <Nav /> */}
         <Main />

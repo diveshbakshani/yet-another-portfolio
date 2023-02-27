@@ -1,0 +1,32 @@
+[
+  {
+    "year": 2022,
+    "name": "Computer Security",
+    "grade": "A-"
+  },
+  {
+    "year": 2022,
+    "name": "Introduction to Machine Learning",
+    "grade": "A-"
+  },
+  {
+    "year": 2021,
+    "name": "Reinforcement Learning",
+    "grade": "A"
+  },
+  {
+    "year": 2021,
+    "name": "Introduction to Computer Vision",
+    "grade": "A"
+  },
+  {
+    "year": 2021,
+    "name": "Analysis of Algorithms",
+    "grade": "B"
+  },
+  {
+    "year": 2021,
+    "name": "Modern Network Concepts",
+    "grade": "A"
+  }
+]

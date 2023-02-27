@@ -1,0 +1,12 @@
+[
+  {
+    "year": 2023,
+    "name": "Portfolio Website",
+    "desc": "A portfolio website to showcase my work and skills. Created with Vite, React and Tailwind CSS."
+  },
+  {
+    "year": 2021,
+    "name": "2 Research Papers",
+    "desc": "2 Research Papers on the topic of Machine Learning to detect Image Splicing published to IEEE Journal. Created with LaTeX."
+  }
+]
