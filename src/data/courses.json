@@ -16,7 +16,7 @@
   },
   {
     "year": 2021,
-    "name": "Introduction to Computer Vision",
+    "name": "Computer Vision and Image Processing",
     "grade": "A"
   },
   {
@@ -27,6 +27,11 @@
   {
     "year": 2021,
     "name": "Modern Network Concepts",
+    "grade": "A"
+  },
+  {
+    "year": 2022,
+    "name": "Deep Learning Project on NFL DataBowl hosted on Kaggle",
     "grade": "A"
   }
 ]
